@@ -72,8 +72,8 @@ rest/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/rest-api-project.git
-cd rest-api-project
+git clone https://github.com/AbhineethVS/RESTful-Blog-Posts-API 
+cd RESTful-Blog-Posts-API
 
 # 2. Install dependencies
 npm install
