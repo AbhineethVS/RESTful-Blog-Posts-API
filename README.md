@@ -72,7 +72,7 @@ rest/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/AbhineethVS/RESTful-Blog-Posts-API 
+git clone https://github.com/AbhineethVS/RESTful-Blog-Posts-API.git
 cd RESTful-Blog-Posts-API
 
 # 2. Install dependencies
